@@ -1,4 +1,5 @@
-## Hi there 👋
+Check out my website to learn more about me :
+https://portfolio-daj8112s-projects.vercel.app/
 
 <!--
 **DAJ8112/DAJ8112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
