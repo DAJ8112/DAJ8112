@@ -1,4 +1,6 @@
-Check out my website to learn more about me :
+Hey I'm still working on making this homepage look cool.
+
+In the mean time feel free to check out my website to learn more about me : <br>
 https://portfolio-daj8112s-projects.vercel.app/
 
 <!--
