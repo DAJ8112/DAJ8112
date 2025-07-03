@@ -1,7 +1,7 @@
 Hey I'm still working on making this homepage look cool.
 
 In the mean time feel free to check out my website to learn more about me : <br>
-https://portfolio-daj8112s-projects.vercel.app/
+https://dhruvil.me/
 
 <!--
 **DAJ8112/DAJ8112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
